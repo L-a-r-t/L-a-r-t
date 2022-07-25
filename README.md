@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Lart
 - 👀 I’m interested in web development
-- 🌱 Currently learning Next.js / Firebase
+- 🌱 Currently learning Firebase
 - 💞️ Looking to collaborate on anything open-source
 - 📫 Reach me on tlartigau.pro@gmail.com
 
