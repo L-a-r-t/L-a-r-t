@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Lart
 I'm a frontend web developper in the React/Nextjs ecosystem. TailwindCSS/HeadlessUI is my way of life & I've been working on acquiring more and more fullstack experience in my free time.
 
+Contact me at tlartigau.pro@gmail.com
+
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=FFE100&color=FFE100'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0059FF&color=0059FF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=00BBFF&color=00BBFF'/></a>
