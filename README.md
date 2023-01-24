@@ -13,12 +13,16 @@ Contact me at tlartigau.pro@gmail.com
 
 
 ## Cool stuff
+### [ChatGPT to Notion](https://github.com/L-a-r-t/chatgpt-to-notion)
+
+<img width="600" alt="ChatGPT to Notion" src="https://user-images.githubusercontent.com/104721818/214255120-a2bf05f6-43ed-49a4-866b-61392360c80e.jpg">
+
 ### [QOAT](https://github.com/L-a-r-t/qoat-frontend)
 
-<img width="600" alt="Capture d’écran 2022-12-12 162648" src="https://user-images.githubusercontent.com/104721818/207091040-596b49c4-1e03-4d41-8ebb-edfdac680b90.png">
+<img width="600" alt="QOAT screenshot" src="https://user-images.githubusercontent.com/104721818/207091040-596b49c4-1e03-4d41-8ebb-edfdac680b90.png">
 
 ### [planner app](https://github.com/L-a-r-t/planner-app)
 
-<img width="600" alt="Capture d’écran 2022-07-04 015258" src="https://user-images.githubusercontent.com/104721818/177063044-53eef8bd-caa6-427e-b6ea-088d6924db14.png">
+<img width="600" alt="Planner app screenshot" src="https://user-images.githubusercontent.com/104721818/177063044-53eef8bd-caa6-427e-b6ea-088d6924db14.png">
 
 ...more to come!
