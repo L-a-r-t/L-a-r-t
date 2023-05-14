@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lart
-I'm a frontend web developper in the React/Nextjs ecosystem. TailwindCSS/HeadlessUI is my way of life & I've been working on acquiring more and more fullstack experience in my free time.
+I'm a frontend web developper in the React/Nextjs ecosystem. I'm also a student & I've been working on acquiring more and more fullstack experience in my free time.
 
 Contact me at tlartigau.pro@gmail.com
 
